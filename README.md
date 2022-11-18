@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python and C;
+- 🌱 I’m currently learning Python, Java, Kotlin and C;
 
 
