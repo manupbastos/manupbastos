@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning Python, Java, Kotlin and C;
 
- [<sub>Manuela Bastos</sub>](https://www.linkedin.com/in/manuela-bastos-aa2461224/)
+ Meu LinkedIn[<sub>Manuela Bastos</sub>](https://www.linkedin.com/in/manuela-bastos-aa2461224/)
